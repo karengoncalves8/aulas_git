@@ -7,4 +7,5 @@
     <li>add</li>
     <li>commit</li>
     <li>push</li>
+    <li>checkout</li>
 </ul>
