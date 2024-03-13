@@ -8,4 +8,6 @@
     <li>commit</li>
     <li>push</li>
     <li>checkout</li>
+    <li>merge</li>
+</ul>
 </ul>
